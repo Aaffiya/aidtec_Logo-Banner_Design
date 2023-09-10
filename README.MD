@@ -17,3 +17,8 @@ Welcome to the GitHub repository for the logo design Intern Task-1 on Info Aid T
 
 ## Usage
 Feel free to use this logo for all of Info Aid Tech's branding needs, including websites, business cards, marketing materials, and more. The logo is designed to be versatile and visually appealing in various contexts.
+
+![logo](https://github.com/Aaffiya/aidtec_Logo-Banner_Design/assets/144488901/8cf2eea8-9040-4545-b5cf-0fcbcb0c0c9f)
+
+
+![banner2](https://github.com/Aaffiya/aidtec_Logo-Banner_Design/assets/144488901/eb19995c-fab3-4355-ab98-5cbf303507b6)
